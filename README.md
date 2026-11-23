@@ -1,6 +1,6 @@
 ## Explainable Recruitment Assistant
 
-**README Prose Word Count:** 418
+**README Prose Word Count:** 436
 
 ### Project Status
 
