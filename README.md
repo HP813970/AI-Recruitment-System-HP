@@ -117,6 +117,4 @@ When creating the system diagram and storyboards, Figma was used to create them 
 
 Developer: Hiren Patel
 
-Student ID: 3190710
-
 ---
