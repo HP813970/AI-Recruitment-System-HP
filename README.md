@@ -38,6 +38,8 @@ Planned features:
 
 ### Running the project locally
 
+Requirements: Visual Studio Code and Python 3 must be installed to run the project
+
 1. Download the project by going to Code -> Local -> Download Zip
 2. Extract the folder and then open it in Visual Studio Code
 3. Open a new terminal
