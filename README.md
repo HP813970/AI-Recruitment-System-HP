@@ -38,8 +38,8 @@ Planned features:
 
 ### Running the project locally
 
-1. Download or clone the project repository
-2. Open the project folder in Visual Studio Code
+1. Download the project by going to Code -> Local -> Download Zip
+2. Extract the folder and then open it in Visual Studio Code
 3. Open a new terminal
 4. Run:
 
